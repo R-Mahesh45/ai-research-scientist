@@ -107,7 +107,8 @@ error handling, output parsing
 
 
 👤 Author
-Mah Rathod
+
+Mahesh Rathod
 First agentic AI project — June 2026
 Built with curiosity, LangChain, and a lot of rate limit errors 😄
 
