@@ -1,4 +1,3 @@
-# filename: README.md
 # 🤖 AI Research Agent — Agentic AI Capstone Project
 
 > **My first step into the world of Agentic AI.**
